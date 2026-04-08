@@ -1,4 +1,4 @@
-# Hi there, I'm Praduman 👋
+# Hi there, I'm Praduman 
 
 ### Software Engineer | BTech CSE (AI/ML)
 
@@ -6,16 +6,16 @@ I'm a passionate developer focused on web and mobile development, software archi
 
 ---
 
-## 🚀 About Me
+## About Me
 
-- 🎓 Currently pursuing a **Bachelor of Technology in Computer Science Engineering**, specializing in Data Science.
-- 💻 Creator of **Shegruh**, a comprehensive project management platform built specifically for architects and interior designers.
-- 🏗️ Experienced in building microservices, ticket systems, and complex architectural flowcharts.
-- 🌱 Always exploring new ways to optimize project management and software architecture.
+- Currently pursuing a **Bachelor of Technology in Computer Science Engineering**, specializing in Data Science.
+- Creator of **Shegruh**, a comprehensive project management platform built specifically for architects and interior designers.
+- Experienced in building microservices, ticket systems, and complex architectural flowcharts.
+- Always exploring new ways to optimize project management and software architecture.
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## Tech Stack & Tools
 
 * **Frontend:** React, Next.js, React Native
 * **Backend:** Express.js, Node.js
@@ -23,7 +23,7 @@ I'm a passionate developer focused on web and mobile development, software archi
 
 ---
 
-## 🐍 My Contributions
+## My Contributions
 
 <div align="center">
   <picture>
@@ -35,8 +35,7 @@ I'm a passionate developer focused on web and mobile development, software archi
 
 ---
 
-## 📫 Let's Connect
+## Let's Connect
 
 - **LinkedIn:** https://www.linkedin.com/in/praduman-kathade-448363226/
-- **Portfolio / Shegruh:** https://shegruh.com/
 - **Email:** praduman.228@gmail.com
